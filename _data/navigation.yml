@@ -1,0 +1,30 @@
+main:
+  - title: "Resources"
+    url: /resources/
+  - title: "Engagements"
+    url: /engagements/  
+  - title: "Impact"
+    url: /impact/
+  - title: "Meetings"
+    url: /meetings/
+  - title: "Engage"
+    url: /engage/
+  - title: "Process"
+    url: /process/
+  - title: "Meet Us"
+    url: /meet-us/
+  - title: "FAQ"
+    url: /faq/
+
+example-sidebar:
+  - title: "Resources"
+    children:
+    - title: "Overview"
+      url: /resources/resources-overview/
+    - title: "Environments"
+      url: /resources/environments/
+    - title: "Solutions"
+      url: /resources/solutions/
+    - title: "Presentations"
+      url: /resources/presentations/
+

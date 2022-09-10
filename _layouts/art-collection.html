@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <p><h1 id="page-title" class="page__title">{{ page.title }}</h1></p>
+    <section class="page__content" itemprop="text">
+      {{ content }}
+
+      {% assign entries_layout = page.entries_layout | default: 'list' %}
+      <div class="entries-{{ entries_layout }}">
+        {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+      </div>
+    </section>
+  </article>
+</div>
