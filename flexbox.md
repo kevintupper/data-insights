@@ -2,7 +2,7 @@
 layout: art-splash
 title: The Agile Response Team (ART)
 classes: wide
-permalink: /flexbox
+permalink: /flexbox/
 date: 2022-07-27 07:29:55
 
 feature_row:

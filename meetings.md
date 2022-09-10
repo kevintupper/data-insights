@@ -2,7 +2,7 @@
 layout: art-splash
 title: Meetings
 classes: wide
-permalink: /meetings
+permalink: /meetings/
 date: 2016-03-23T11:48:41-04:00
 ---
 
