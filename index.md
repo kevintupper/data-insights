@@ -15,7 +15,6 @@ feature_row:
     btn_label: "Engage ART Now!"
     btn_class: "btn--success btn--large align-center"
 ---
-![Presentation Starter Title Image](/assets/img/title-slide.png)
 
 The Agile Response Team (ART) is a cross-functional team of Cloud Solution Architects with deep connections into Microsoft engineering teams and decades of combined experience in delivering secure, reliable, scalable, and cost-optimized cloud solutions.​​​​​​​  
 

@@ -1,20 +1,14 @@
 main:
-  - title: "Resources"
-    url: /resources/
-  - title: "Engagements"
-    url: /engagements/  
-  - title: "Impact"
-    url: /impact/
-  - title: "Meetings"
-    url: /meetings/
-  - title: "Engage"
-    url: /engage/
-  - title: "Process"
-    url: /process/
-  - title: "Meet Us"
-    url: /meet-us/
-  - title: "FAQ"
-    url: /faq/
+  - title: "Page 1"
+    url: /page-1/
+  - title: "Page 2"
+
+  
+    url: /page-2/  
+  - title: "Page 3"
+    url: /page-3/
+  - title: "Page 4"
+    url: /page-4/
 
 example-sidebar:
   - title: "Resources"
