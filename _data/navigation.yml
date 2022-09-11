@@ -1,14 +1,12 @@
 main:
-  - title: "Page 1"
-    url: /page-1/
-  - title: "Page 2"
-
-  
-    url: /page-2/  
-  - title: "Page 3"
-    url: /page-3/
-  - title: "Page 4"
-    url: /page-4/
+  - title: "Analytics"
+    url: /analytics/
+  - title: "Datastores"
+    url: /datastores/  
+  - title: "Synapse"
+    url: /synapse/
+  - title: "Demos"
+    url: /demos/
 
 example-sidebar:
   - title: "Resources"

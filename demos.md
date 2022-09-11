@@ -1,7 +1,7 @@
 ---
 layout: art-splash
-title: Page 4
+title: Demos
 classes: wide
-permalink: /page-4/
+permalink: /demos/
 date: 2022-07-27 07:34:10
 ---

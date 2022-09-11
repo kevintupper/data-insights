@@ -1,7 +1,7 @@
 ---
 layout: art-splash
-title: Page 1
+title: Synapse
 classes: wide
-permalink: /page-1/
+permalink: /synapse/
 date: 2022-07-27 07:34:10
 ---
