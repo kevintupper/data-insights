@@ -1,5 +1,6 @@
 ---
 layout: art-splash
+title: My page
 classes: wide
 permalink: /
 date: 2022-07-27 07:29:55
