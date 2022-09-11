@@ -3,6 +3,8 @@ main:
     url: /analytics/
   - title: "Datastores"
     url: /datastores/  
+  - title: "Simplified"
+    url: /simplified/
   - title: "Synapse"
     url: /synapse/
   - title: "Demos"
