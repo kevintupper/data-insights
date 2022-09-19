@@ -11,9 +11,9 @@ date: 2022-07-27 07:34:10
 
    <map name="image-map">
       <area target="" alt="Ingest" title="Ingest" href="../ingest" coords="310,165,15" shape="circle">
-      <area target="" alt="Store" title="Store" href="../store" coords="616,165,15" shape="circle">
+      <area target="" alt="Store" title="Store" href="../data-stores" coords="616,165,15" shape="circle">
       <area target="" alt="Enrich" title="Enrich" href="../enrich-explore-discover" coords="924,165,15" shape="circle">
-      <area target="" alt="Publish" title="Publish" href="/publish" coords="1231,164,14" shape="circle">
+      <area target="" alt="Publish" title="Publish" href="../publish" coords="1231,164,14" shape="circle">
       <area target="" alt="Data Governance" title="Data Governance" href="../data-governance" coords="1232,649,15" shape="circle">
       <area target="_blank" alt="Event Hubs" title="Event Hubs" href="https://docs.microsoft.com/en-us/azure/event-hubs/" coords="45,203,262,232" shape="rect">
       <area target="_blank" alt="IoT Hub" title="IoT Hub" href="https://docs.microsoft.com/en-us/azure/iot-hub/" coords="49,240,244,271" shape="rect">
