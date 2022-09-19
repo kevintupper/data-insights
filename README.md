@@ -1,5 +1,28 @@
-# presentation-starter
-Starter presentation template
+# DOE Data Insights
+
+Introduction
+- Ujval / Kevin
+- 
+- Too much content (multi-day summit on just data/analytics to cover the topic)
+- Goal to create onestop website for you which is 
+  - prescriptive with PaaS Storate and Analytics options
+  - always available resource for data and analytics
+
+Analytics
+
+- What is it?
+- 
+
+Data stores
+
+
+- Azure store models
+
+  - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+
+
+
+
 
 ## 15 MINUTES Intro
 Home page 
