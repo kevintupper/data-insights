@@ -1,4 +1,4 @@
-# DOE Data Insights
+# Data Insights
 
 Introduction
 - Ujval / Kevin
