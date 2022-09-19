@@ -1,10 +1,13 @@
 ---
 layout: art-splash
-title: Agenda
+title: Sandia Azure Summit 2022
 classes: wide
 permalink: /sandia-azure-summit/
 date: 2022-07-27 07:29:55
 ---
+### PaaS Databases: Elevate Your Data Insights with Azure Managed Databases and Analytics
+
+## Agenda
 
 ### Analytics
 
@@ -16,7 +19,7 @@ date: 2022-07-27 07:29:55
 
 ### Demos
 
-# Presenters
+## Presenters
 
 * [Ujval Gandhi](mailto:ujvalgandhi@microsoft.com), Senior Cloud Solution Architect
 

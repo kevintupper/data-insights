@@ -1,26 +1,61 @@
 # Data Insights
 
-Introduction
+Introduction (2 minutes)
+
 - Ujval / Kevin
-- 
+
 - Too much content (multi-day summit on just data/analytics to cover the topic)
-- Goal to create onestop website for you which is 
+
+- Goal to create onestop website for you which is
   - prescriptive with PaaS Storate and Analytics options
   - always available resource for data and analytics
 
-Analytics
+- Describe content features of website
 
-- What is it?
-- 
+- Drive into presentation
 
-Data stores
+Analytics (5 minutes)
+
+- 1 - start with publish (3)
+  - Define Analytics
+  - Analytics continuum
+  - Power BI beyond scope of presentation (will be showing in Demos though)
+  - Review resources
+  
+- 2 - ingest (1)
+  - Show page and brief conversation
+
+- 3 - enrich, explore, disover (1)
+  - Show page and brief conversation
+
+Data stores (12 minutes)
+
+- Azure Blob Storage
+
+- Azure Data Lake Gen2
+  - Data Lake  (UNSTRUCTURED DATA OR DATA YOU ARE NOT SURE HOW YOU WANT TO USE YET)
+  - https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+  - https://medium.com/awesome-azure/azure-difference-between-azure-blob-storage-and-azure-data-lake-storage-comparison-azure-blob-vs-adls-gen2-81af5ef2a6e1
+  - https://www.linkedin.com/pulse/azure-data-engineering-series-part-1-blob-storage-vs-lake-grandy/
+
+- SQL Family (PaaS)
+  - SQL MI
+  - Azure SQL
+  - SQL Data Warehouse (Synapse)
+
+- Cosmos DB
+    - Azure store models
+
+      - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
 
 
-- Azure store models
+Simplified Analytics (2 minutes)
 
-  - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+Synapse slide (5 minutes)
 
+Synapse environment (5 minutes)
 
+Demos (10 minutes)
 
 
 
@@ -33,13 +68,13 @@ Ingest . . . Publish walkthrough
 
 Data storage options  (5)
 
+
 - SQL Server Family
 
 - Cosmos DB
 
 - SQL Data Warehouse (Synapse Dedicated Pool)
 
-- Data Lake  (UNSTRUCTURED DATA OR DATA YOU ARE NOT SURE HOW YOU WANT TO USE YET)
   
 Synapse and Power BI - End-to-end Analytics (5)
 
