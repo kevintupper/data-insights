@@ -1,5 +1,18 @@
 # Data Insights
 
+## To Do
+
+- Remove Data Stores from Nav
+- Add Azure Data Lake G2, Azure SQL Database, Cosmos DB to Analytics Simplified with Hot Spots
+- Validate links to "learn"
+- Synapse Image from Ujval with hot links
+- Publish page
+- Ingest page
+
+
+
+# Agenda
+
 Introduction (2 minutes)
 
 - Ujval / Kevin
