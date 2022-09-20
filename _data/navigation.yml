@@ -1,12 +1,16 @@
 main:
   - title: "Analytics"
     url: /analytics/
+  - title: "Data stores"
+    url: /data-stores/
   - title: "Analytics Simplified"
     url: /analytics-simplified/
   - title: "Synapse"
     url: /synapse/
   - title: "Demos"
     url: /demos/
+  - title: "Index"
+    url: /site-index/
 
 example-sidebar:
   - title: "Resources"

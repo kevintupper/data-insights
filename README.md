@@ -1,14 +1,79 @@
 # Data Insights
 
+## Introduction (3 minutes)  
+
+[Agenda page]
+
+- Who am I and who is Ujval
+- Goal for today
+  - create onestop website for you which is
+  - prescriptive with PaaS Storate and Analytics options
+  - always available resource for data and analytics
+  
+- Agenda
+  
+  - Analtyics (5 minutes)
+    - Continuum
+    - Process and tools
+  
+  - Data stores (15 minutes)
+    - Polyglot persistence
+    - Azure Data Lake Gen2
+    - Azure SQL Database
+    - Azure Cosmos DB
+  
+  - Analytics Simplified (1 minute)
+  
+  - Synapse overview (10 minutes)
+
+  - Synapse studio walk through (10 minutes)
+
+  - Synapse demos (10 minutes)
+
+## Analytics (5 minutes)
+
+[Analytics continuum page]
+
+- The analyticts continuum
+  - What is analytics?
+  - Walk through the continuum and maturity cycle
+
+[Analytics page]
+
+- The process and tools to get there  
+- Why do we start with publish as 1?
+- Inform about click-throughs for all the content
+- Click-through publish, ingest, store, enrich
+
+- Silos / different skills / as tools mature the lines blur
+  
+## Data stores (10 minutes)
+
+[Data stores slide]
+
+- Data stores conceptual (what, when, why)
+
+- PaaS Options
+  - Azure Data Lake Gen2 (3 minute overview) [ADLS G2 page]
+  - Azure SQL Database (3 minute overview)  [Azure SQL page]
+  - Azure Cosmos DB (3 minute overview)  [Cosmos DB page]
+
+- 
+
+
+
+
+
+
 ## To Do
 
 - Remove Data Stores from Nav
 - Add pages for Azure Data Lake G2, Azure SQL Database, Cosmos DB to Analytics Simplified with Hot Spots
 - Validate links to "learn"
 - Synapse Image from Ujval with hot links
-- Publish page
-- Ingest page
+- Add good content to the Publish / Ingest / Data / Enrich pages.
 - Add analytics continuum page and the 4 types of analytics.
+- Verify each page works on Site-Index page and click through all links on each page to make sure all function
 
 # Agenda
 
@@ -123,6 +188,8 @@ Azure Synapse Analytics Overview
     - Change / change back
     - Teams / Share
     - Web publish
+ 
+  - Spark Serveless
 
 
 ## 10 minute demonstration - SWITCH STORY TO IOT FOR MINES  (10 minutes)
