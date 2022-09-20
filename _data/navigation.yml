@@ -1,8 +1,8 @@
 main:
   - title: "Analytics"
-    url: /analytics/
-  - title: "Data stores"
-    url: /data-stores/
+    url: /analytics-continuum/
+  - title: "Data Stores"
+    url: /polyglot-persistence/
   - title: "Analytics Simplified"
     url: /analytics-simplified/
   - title: "Synapse"

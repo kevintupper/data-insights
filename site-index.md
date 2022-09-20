@@ -12,9 +12,9 @@ date:
 
 * [Analytics Continuum](analytics-continuum.md)
 
-* [Analytics Simplified](analytics-simplified.md)
+* [Analtyics Process & Tools](analytics-process.md)
 
-* [Analtyics](analytics.md)
+* [Analytics Simplified](analytics-simplified.md)
 
 * [Azure SQL Database](azure-sql-database.md)
 

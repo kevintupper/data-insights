@@ -1,10 +1,15 @@
 ---
 layout: art-splash
-permalink: /data-stores/
-title: "Data stores"
+permalink: /polyglot-persistence/
+title: 
 classes: 
    - wide
 ---
+<a href="../polyglot-persistence">Polyglot Persistence</a> &nbsp; &nbsp; <a href="../adlsg2">Azure Data Lake Gen 2</a> &nbsp; &nbsp; <a href="../azure-sql-database">Azure SQL Database</a> &nbsp; &nbsp; <a href="../cosmos-db">Cosmos DB</a>
+<hr />
+
+# Polyglot Persistence
+
 * [Understand data store models](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
 
 * [Review your storage options](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/storage-options)
