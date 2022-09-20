@@ -3,13 +3,12 @@
 ## To Do
 
 - Remove Data Stores from Nav
-- Add Azure Data Lake G2, Azure SQL Database, Cosmos DB to Analytics Simplified with Hot Spots
+- Add pages for Azure Data Lake G2, Azure SQL Database, Cosmos DB to Analytics Simplified with Hot Spots
 - Validate links to "learn"
 - Synapse Image from Ujval with hot links
 - Publish page
 - Ingest page
-
-
+- Add analytics continuum page and the 4 types of analytics.
 
 # Agenda
 
