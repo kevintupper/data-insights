@@ -1,5 +1,15 @@
 # Data Insights
 
+
+
+Analytics 5
+Data Stores 15
+Synapse Overview 10
+Demos 20
+- Synapse Studio Walkthrough 10
+- Demos 10
+
+
 ## Introduction (3 minutes)  
 
 [Agenda page]

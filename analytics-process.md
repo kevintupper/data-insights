@@ -5,7 +5,7 @@ classes: wide
 permalink: /analytics-process/
 date: 2022-07-27 07:34:10
 ---
-<a href="../analytics-continuum">The Analytics Continuum</a> &nbsp; &nbsp; <a href="../analytics">The Analytics Process and Tools</a>
+<a href="../analytics-continuum">Analytics Continuum</a> &nbsp; &nbsp; <a href="../analytics-process">Analytics Process & Tools</a>
 <hr />
 
 <div class="google-maps">

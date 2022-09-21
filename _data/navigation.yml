@@ -3,14 +3,10 @@ main:
     url: /analytics-continuum/
   - title: "Data Stores"
     url: /polyglot-persistence/
-  - title: "Analytics Simplified"
+  - title: "Unified Analytics"
     url: /analytics-simplified/
-  - title: "Synapse"
-    url: /synapse/
-  - title: "Demos"
-    url: /demos/
-  - title: "Index"
-    url: /site-index/
+  - title: "Demonstrations"
+    url: /demonstrations/
 
 example-sidebar:
   - title: "Resources"

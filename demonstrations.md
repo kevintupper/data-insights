@@ -1,8 +1,8 @@
 ---
 layout: art-splash
-title: Demos
+title: Demonstrations
 classes: wide
-permalink: /demos/
+permalink: /demonstrations/
 date: 2022-07-27 07:34:10
 ---
 - Ingestion
