@@ -74,6 +74,7 @@
 - Add good content to the Publish / Ingest / Data / Enrich pages.
 - Add analytics continuum page and the 4 types of analytics.
 - Verify each page works on Site-Index page and click through all links on each page to make sure all function
+- Verify Image maps for all images.
 
 # Agenda
 

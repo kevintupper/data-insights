@@ -10,4 +10,6 @@ date: 2022-07-27 07:34:10
 
 # Azure Data Lake Storage Gen 2
 
-
+[training link](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-lake-storage/)
+[link](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+[link](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-best-practices)

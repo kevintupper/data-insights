@@ -5,40 +5,32 @@ classes: wide
 permalink: /
 date: 2022-07-27 07:29:55
 ---
-
-- Agenda
+### Analtyics 
+  - Analytics Continuum
+  - Analytics Process & Tools
   
-  - Analtyics (5 minutes)
-    - Continuum
-    - Process and tools
+### Data stores 
+  - Polyglot Persistence
+  - Azure Data Lake Gen2
+  - Azure SQL Database
+  - Azure Cosmos DB
   
-  - Data stores (15 minutes)
-    - Polyglot persistence
-    - Azure Data Lake Gen2
-    - Azure SQL Database
-    - Azure Cosmos DB
+### Analytics Simplified
   
-  - Analytics Simplified (1 minute)
-  
-  - Synapse overview (10 minutes)
-
-  - Synapse studio walk through (10 minutes)
-
-  - Synapse demos (10 minutes)
-
-
-### Analytics
-
-### Datastores
-
-### Simplified
-
 ### Synapse
 
-### Demos
+### Demonstrations
 
 # Presenters
 
 * [Ujval Gandhi](mailto:ujvalgandhi@microsoft.com), Senior Cloud Solution Architect
 
 * [Kevin Tupper](mailto:kevin.tupper@microsoft.com), Director - Agile Response Team
+
+
+Analytics 5
+Data Stores 15
+Synapse Overview 10
+Demos 20
+- Synapse Studio Walkthrough 10
+- Demos 10

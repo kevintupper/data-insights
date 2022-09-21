@@ -71,8 +71,9 @@ date: 2022-07-27 07:34:10
 </div>
 <br />
 
-[Link](https://learn.microsoft.com/en-us/training/modules/introduction-azure-synapse-analytics/2-what-happening-business)
+[talking points Link](https://learn.microsoft.com/en-us/training/modules/introduction-azure-synapse-analytics/2-what-happening-business)
 
+[talking points link](https://www.riverlogic.com/blog/predictive-vs-prescriptive-analytics-does-the-difference-matter)
 
 Analytics is the process of discovering, interpreting, and ***communicating*** significant patterns in data.
 

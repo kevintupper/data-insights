@@ -9,3 +9,6 @@ date: 2022-07-27 07:34:10
 <hr />
 
 # Azure SQL Managed Instance
+
+[training link](https://learn.microsoft.com/en-us/training/modules/azure-sql-intro/)
+[link](https://learn.microsoft.com/en-us/training/modules/migrate-sql-workloads-azure-managed-instances/)

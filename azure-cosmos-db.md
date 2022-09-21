@@ -9,3 +9,5 @@ date: 2022-07-27 07:34:10
 <hr />
 
 # Azure Cosmos DB
+
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/
