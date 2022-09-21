@@ -14,8 +14,7 @@ date: 2022-07-27 07:29:55
 * **Data Stores**
   - [Polyglot Persistence](../data-insights/polyglot-persistence/)
   - [Azure Data Lake Storage Gen2](../data-insights/adlsg2/)
-  - [Azure SQL Database](../data-insights/azure-sql-database/)
-  - [Azure SQL Managed Instance](../data-insights/azure-sql-managed-instance/)
+  - [Azure SQL](../data-insights/azure-sql/)
   - [Azure Cosmos DB](../data-insights/azure-cosmos-db/)
   
 * **Unified Analytics**

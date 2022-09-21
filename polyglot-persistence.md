@@ -5,9 +5,8 @@ title:
 classes: 
    - wide
 ---
-<a href="../polyglot-persistence">Polyglot Persistence</a> &nbsp; &nbsp; <a href="../adlsg2">Azure Data Lake Storage Gen2</a> &nbsp; &nbsp; <a href="../azure-sql-database">Azure SQL Database</a> &nbsp; &nbsp; <a href="../azure-sql-managed-instance">Azure SQL Managed Instance</a> &nbsp; &nbsp; <a href="../azure-cosmos-db">Azure Cosmos DB</a>
+<a href="../polyglot-persistence">Polyglot Persistence</a> &nbsp; &nbsp; <a href="../adlsg2">Azure Data Lake Storage Gen2</a> &nbsp; &nbsp; <a href="../azure-sql">Azure SQL</a> &nbsp; &nbsp; <a href="../azure-cosmos-db">Azure Cosmos DB</a>
 <hr />
-
 # Polyglot Persistence
 
 * [Understand data store models](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
