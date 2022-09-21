@@ -22,7 +22,7 @@ date: 2022-07-27 07:34:10
 
 * Analytics is the process of discovering, interpreting, and ***communicating*** significant patterns in data.
 
-* > Your success in life will be determined largely by your ability to speak, your ability to write, and the quality of your ideas, in that order.
+> Your success in life will be determined largely by your ability to speak, your ability to write, and the quality of your ideas, in that order.
 >
 > [Patrick Winston, MIT pfofessor](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
 
@@ -32,18 +32,18 @@ date: 2022-07-27 07:34:10
 
 The following content is copied from the section on ["What is advanced analytics?"](https://www.gartner.com/en/topics/data-and-analytics#q7) from the resource above.
 
-**Descriptive analytics**
+**Descriptive analytics**<br />
 This uses business intelligence (BI) tools, data visualization and dashboards to answer, what happened? or what is happening? Procurement, for example, can answer questions like, what did we spend on commodity X in the last quarter? and who are our biggest suppliers for commodity Y?
 
-**Diagnostic analytics**
+**Diagnostic analytics**<br />
 This requires more drilled-down and data mining abilities to answer, why did X happen? For example, sales leaders can use diagnostics to identify the behaviors of sellers who are on track to meet their quotas.
 
-**Predictive analytics**
+**Predictive analytics**<br />
 Predictive analytics typically deals with probabilities and can be used to predict a series of outcomes over time (that is, forecasting) or to highlight uncertainties related to multiple possible outcomes (that is, simulation). It tells us what to expect, addressing the question of, what is likely to happen? It does not, however, answer other questions, such as, what should be done about it?
 
 Predictive analytics relies on techniques such as predictive modeling, regression analysis, forecasting, multivariate statistics, pattern matching and machine learning (ML).
 
-**Prescriptive analytics**
+**Prescriptive analytics**<br />
 Prescriptive analytics intends to calculate the best way to achieve or influence the outcome — it aims to drive action. When combined with predictive analytics, prescriptive analytics naturally draws on and extends predictive insights, addressing the questions of, what should be done? or what can we do to make a given outcome happen? 
 
 Prescriptive analytics includes both rule-based approaches (incorporating known knowledge in a structured manner) and optimization techniques (traditionally used by operations research groups) that look for optimal outcomes within constraints to generate executable plans of action. Prescriptive analytics relies on techniques such as graph analysis, simulation, complex-event processing and recommendation engines. (Also see “What is advanced analytics?”)
