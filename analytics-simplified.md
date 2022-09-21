@@ -13,7 +13,7 @@ date: 2022-07-27 07:34:10
 
    <map name="image-map">
       <area target="" alt="Ingest" title="Ingest" href="../ingest" coords="310,165,15" shape="circle">
-      <area target="" alt="Store" title="Store" href="../data-stores" coords="616,165,15" shape="circle">
+      <area target="" alt="Store" title="Store" href="../polyglot-persistence" coords="616,165,15" shape="circle">
       <area target="" alt="Enrich" title="Enrich" href="../enrich-explore-discover" coords="924,165,15" shape="circle">
       <area target="" alt="Publish" title="Publish" href="../publish" coords="1231,164,14" shape="circle">
       <area target="_blank" alt="Azure Synapse Analytics" title="Azure Synapse Analytics" href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" coords="42,200,1241,308" shape="rect">
