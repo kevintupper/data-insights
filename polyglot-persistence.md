@@ -21,3 +21,7 @@ classes:
 * [Choose a big data storage technology in Azure](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-storage)
 
 * [Choose an analytical data store in Azure](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)
+
+### Data Store Selection Flowchart
+
+![Data Store Selection Flowchart](../assets/img/data-store-decision-tree.svg)
