@@ -6,7 +6,7 @@ permalink: /demonstrations/
 date: 2022-07-27 07:34:10
 ---
 
-- Overview of Azure Synsapse Studio
+- Overview of Azure Synapse Studio
 
 - Data Ingestion
 
